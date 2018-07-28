@@ -1,0 +1,65 @@
+{
+  "ret": true,
+  "data": {
+    "swiperList": [{
+      "id": "1001",
+      "imgUrl": "https://img1.qunarzz.com/qs/1807/88/bf6cb2f17b7ad302.jpg",
+      "link": "/list"
+    }, {
+      "id": "1002",
+      "imgUrl": "https://img1.qunarzz.com/qs/1807/8c/2065748847848202.jpg",
+      "link": "/list"
+    }],
+    "iconsList": [{
+      "id": "1003",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+      "link": "/list",
+      "title": "故宫"
+    }, {
+      "id": "1004",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+      "link": "/list",
+      "title": "滑雪季"
+    }, {
+      "id": "1005",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+      "link": "/list",
+      "title": "故宫"
+    }, {
+      "id": "1006",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+      "link": "/list",
+      "title": "滑雪季"
+    }, {
+      "id": "1007",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+      "link": "/list",
+      "title": "故宫"
+    }, {
+      "id": "1008",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+      "link": "/list",
+      "title": "滑雪季"
+    }, {
+      "id": "1009",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+      "link": "/list",
+      "title": "故宫"
+    }, {
+      "id": "1010",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+      "link": "/list",
+      "title": "滑雪季"
+    }, {
+      "id": "1011",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+      "link": "/list",
+      "title": "故宫"
+    }, {
+      "id": "1012",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+      "link": "/list",
+      "title": "滑雪季"
+    }]
+  }
+}
